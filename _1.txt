@@ -1,0 +1,5 @@
+GitHub Metadata: Error processing value 'title':
+Liquid Exception: No repo name found. Specify using PAGES_REPO_NWO environment variables, 'repository' in your configuration, or set up an 'origin' git remote pointing to your github.com repository. in /_layouts/default.html
+          ERROR: YOUR SITE COULD NOT BE BUILT:
+                 ------------------------------------
+                 No repo name found. Specify using PAGES_REPO_NWO environment variables, 'repository' in your configuration, or set up an 'origin' git remote pointing to your github.com repository.
