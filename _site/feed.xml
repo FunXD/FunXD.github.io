@@ -1,39 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-06-23T10:29:24+09:00</updated><id>http://localhost:4000/</id><title type="html">Hello, I’m FunXD™ 👋👋</title><subtitle>This is a New Project Jekyll, Where is FunXD on Earth!?</subtitle><author><name>What is FunXD on Earth!</name></author><entry><title type="html">헬로월드-나의 첫 포스팅! 👏👏👏</title><link href="http://localhost:4000/2018/06/12/helloWorldMyFirstPosting/" rel="alternate" type="text/html" title="헬로월드-나의 첫 포스팅! 👏👏👏" /><published>2018-06-12T00:00:00+09:00</published><updated>2018-06-12T00:00:00+09:00</updated><id>http://localhost:4000/2018/06/12/helloWorldMyFirstPosting</id><content type="html" xml:base="http://localhost:4000/2018/06/12/helloWorldMyFirstPosting/">&lt;p&gt;Next you can update your site name, &lt;strong&gt;avatar&lt;/strong&gt; and other options using the _&lt;strong&gt;config.yml&lt;/strong&gt; file in the root of your repository (&lt;strong&gt;shown below&lt;/strong&gt;). The easiest way to make your first post is to edit this one. 🙏&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-16T23:07:56+09:00</updated><id>http://localhost:4000/</id><title type="html">Hello, I’m FunXD™ 👋👋</title><subtitle>This is a New Project Jekyll, Where is FunXD on Earth!?</subtitle><author><name>What is FunXD on Earth!</name></author><entry><title type="html">타이틀 글이 가장 중요합니다</title><link href="http://localhost:4000/2018/07/15/test-post/" rel="alternate" type="text/html" title="타이틀 글이 가장 중요합니다" /><published>2018-07-15T00:00:00+09:00</published><updated>2018-07-15T00:00:00+09:00</updated><id>http://localhost:4000/2018/07/15/test-post</id><content type="html" xml:base="http://localhost:4000/2018/07/15/test-post/">&lt;p&gt;요약글입니다&lt;/p&gt;
 
-&lt;p&gt;Go into /_posts/ and update the Hello World markdown file.
-For more instructions head over to the 👉
-&lt;a href=&quot;https://github.com/barryclark/jekyll-now&quot;&gt;Jekyll Now repository&lt;/a&gt; on GitHub.&lt;/p&gt;
+&lt;h1 id=&quot;영어화일은-아무-상관없습니다&quot;&gt;영어화일은 아무 상관없습니다&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/system/icon_db_favicon.png&quot; alt=&quot;_config.yml&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;자금부터는 본문글입니다.
+여기서부터는 내용보기를 하면 나오는 내용들입니다.&lt;/p&gt;
 
-&lt;p&gt;👆this is my favorite game ‘Dirty Bomb’&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/system/404.jpg&quot; alt=&quot;그림설명&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/system/404.jpg&quot; width=&quot;300&quot; /&gt;&lt;/p&gt;</content><author><name>What is FunXD on Earth!</name></author><summary type="html">요약글입니다</summary></entry><entry><title type="html">헬로월드-나의 첫 포스팅! 👏👏👏</title><link href="http://localhost:4000/2018/06/12/helloWorldMyFirstPosting/" rel="alternate" type="text/html" title="헬로월드-나의 첫 포스팅! 👏👏👏" /><published>2018-06-12T00:00:00+09:00</published><updated>2018-06-12T00:00:00+09:00</updated><id>http://localhost:4000/2018/06/12/helloWorldMyFirstPosting</id><content type="html" xml:base="http://localhost:4000/2018/06/12/helloWorldMyFirstPosting/">&lt;p&gt;애국가 영어ver.&lt;/p&gt;
+
+&lt;p&gt;east sea water and white head mountain is dry and worn out god save us our country yahoo
+korea rose three thousand glory river and mountain korea people as korean our country yahoo
+south mountain up that cow tree like wear shild wind frost discomfort our wake up
+korea rose three thousand glory river and mountain korea people as korean our country yahoo
+autumn sky handy high no cloud bright moon our chest one heart
+korea rose three thousand glory river and mountain korea people as korean our country yahoo
+this wake up this mind and be royal pain or excited love our country
+korea rose three thousand glory river and mountain korea people as korean our country yahoo&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;h2 id=&quot;contact-me-&quot;&gt;Contact Me 👑&lt;/h2&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;https://onito.github.io&quot;&gt;&lt;img src=&quot;/images/system/emoji_duck.png&quot; width=&quot;150&quot; alt=&quot;...Im all alone...&quot; /&gt;&lt;/a&gt; &lt;br /&gt;
-&lt;a href=&quot;https://FunXD.github.io&quot;&gt;[&lt;strong&gt;FunXD.github.io&lt;/strong&gt;]&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;hr align=&quot;center&quot; style=&quot;border:solid 1px #ddd; width:90%;&quot; /&gt;
-
-&lt;h2&gt;LET'S GET IN TOUCH WITH!&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;
-  &lt;img src=&quot;https://www.google.com/s2/favicons?domain=plus.google.com&quot; /&gt;　&lt;a class=&quot;clickable&quot; href=&quot;https://plus.google.com/u/0/{account_num}&quot; target=&quot;_blank&quot;&gt;{Your-account-ID}|Google+&lt;/a&gt;&lt;br /&gt;
-&lt;/li&gt;
-
-&lt;li&gt;
-  &lt;img src=&quot;https://www.google.com/s2/favicons?domain=www.youtube.com&quot; /&gt;　&lt;a class=&quot;clickable&quot; href=&quot;https://www.youtube.com/user/{your-account-ID}/&quot; target=&quot;_blank&quot;&gt;{Your-account-ID}|YouTube&lt;/a&gt;&lt;br /&gt;
-&lt;/li&gt;
-
-&lt;li&gt;
-  &lt;img src=&quot;https://www.google.com/s2/favicons?domain=twitter.com&quot; /&gt;　&lt;a class=&quot;clickable&quot; href=&quot;https://twitter.com/{Your-accounnt}&quot; target=&quot;_blank&quot;&gt;{Your-account-ID}|Twitter&lt;/a&gt;&lt;br /&gt;
-&lt;/li&gt;
-
-&lt;li&gt;
-  &lt;img src=&quot;https://www.google.com/s2/favicons?domain=github.com&quot; /&gt;　&lt;a class=&quot;clickable&quot; href=&quot;https://github.com/{Your-account-ID}/{Your-account-ID}.github.io&quot; target=&quot;_blank&quot;&gt;{Your-account-ID}.github.io&lt;/a&gt;&lt;br /&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>What is FunXD on Earth!</name></author><summary type="html">Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below). The easiest way to make your first post is to edit this one. 🙏</summary></entry></feed>
+&lt;p&gt;동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리나라 만세
+무궁화 삼천리 화려강산대한사람 대한으로 우리나라 만세
+남산위에 저소나무 철갑을 두른 듯 바람서리 불변함은 우리 기상 일세
+무궁화 삼천리 화려강산 대한사람 대한으로 우리나라 만세
+가을 하늘 공활한데 높고 구름 없이 밝은 달은 우리 가슴 일편단심 일세
+무궁화 삼천리 화려강산 대한사감 대한으로 우리나라 만세
+이 기상과 이맘으로 충성을 다 하여 괴로우나 즐거우나 나라 사랑하세
+무궁화 삼천리 화려강산 대한사람 대한으로 우리나라 만세&lt;/p&gt;</content><author><name>What is FunXD on Earth!</name></author><summary type="html">애국가 영어ver.</summary></entry></feed>

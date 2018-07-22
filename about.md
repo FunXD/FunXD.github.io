@@ -3,7 +3,7 @@ layout: page
 title: ABOUT
 permalink: /about/
 ---
-<img src="{{ site.baseurl}}/images/system/angry_tig.png" align="right" width="200"
+<img src="{{ site.baseurl}}/images/system/emoji_duck.png" align="right" width="200"
  alt="MEOW!..." />
 
 

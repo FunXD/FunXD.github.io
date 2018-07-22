@@ -3,40 +3,24 @@ layout: post
 title: 헬로월드-나의 첫 포스팅! 👏👏👏
 ---
 
-Next you can update your site name, **avatar** and other options using the \_**config.yml** file in the root of your repository (**shown below**). The easiest way to make your first post is to edit this one. 🙏
+애국가 영어ver.
 
-Go into /\_posts/ and update the Hello World markdown file.
-For more instructions head over to the 👉
-[Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+east sea water and white head mountain is dry and worn out god save us our country yahoo
+korea rose three thousand glory river and mountain korea people as korean our country yahoo
+south mountain up that cow tree like wear shild wind frost discomfort our wake up
+korea rose three thousand glory river and mountain korea people as korean our country yahoo
+autumn sky handy high no cloud bright moon our chest one heart
+korea rose three thousand glory river and mountain korea people as korean our country yahoo
+this wake up this mind and be royal pain or excited love our country
+korea rose three thousand glory river and mountain korea people as korean our country yahoo
 
-![_config.yml]({{ site.baseurl }}/images/system/icon_db_favicon.png)
+--------------------------------------------------------------------------------------------
 
-👆this is my favorite game 'Dirty Bomb'
-
-
----
-## Contact Me 👑
-
-> [<img src="{{ site.baseurl }}/images/system/emoji_duck.png" width="150" alt="...Im all alone...">](https://onito.github.io)   
-> [[**FunXD.github.io**]](https://FunXD.github.io)
-
-
-<hr align='center' style='border:solid 1px #ddd; width:90%;'>
-<h2>LET'S GET IN TOUCH WITH!</h2>
-
-<ol>
-<li>
-  <img src="https://www.google.com/s2/favicons?domain=plus.google.com">　<a class="clickable" href="https://plus.google.com/u/0/{account_num}" target="_blank">{Your-account-ID}|Google+</a><br>
-</li>
-
-<li>
-  <img src="https://www.google.com/s2/favicons?domain=www.youtube.com">　<a class="clickable" href="https://www.youtube.com/user/{your-account-ID}/" target="_blank">{Your-account-ID}|YouTube</a><br>
-</li>
-
-<li>
-  <img src="https://www.google.com/s2/favicons?domain=twitter.com">　<a class="clickable" href="https://twitter.com/{Your-accounnt}" target="_blank">{Your-account-ID}|Twitter</a><br>
-</li>
-
-<li>
-  <img src="https://www.google.com/s2/favicons?domain=github.com">　<a class="clickable" href="https://github.com/{Your-account-ID}/{Your-account-ID}.github.io" target="_blank">{Your-account-ID}.github.io</a><br>
-</li>
+동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리나라 만세
+무궁화 삼천리 화려강산대한사람 대한으로 우리나라 만세
+남산위에 저소나무 철갑을 두른 듯 바람서리 불변함은 우리 기상 일세
+무궁화 삼천리 화려강산 대한사람 대한으로 우리나라 만세
+가을 하늘 공활한데 높고 구름 없이 밝은 달은 우리 가슴 일편단심 일세
+무궁화 삼천리 화려강산 대한사감 대한으로 우리나라 만세
+이 기상과 이맘으로 충성을 다 하여 괴로우나 즐거우나 나라 사랑하세
+무궁화 삼천리 화려강산 대한사람 대한으로 우리나라 만세
